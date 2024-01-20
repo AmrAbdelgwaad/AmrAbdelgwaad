@@ -1,6 +1,12 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="">, I'm Amr Mohamed</h1>
-Frontend developer passionate about crafting beautiful, accessible UIs.  Angular | TypeScript | Sass | Accessibility |   MDN enthusiast, always eager to learn and grow.
+<p align="center">Frontend developer passionate about crafting beautiful, accessible UIs.  Angular | TypeScript | Sass | Accessibility |   MDN enthusiast, always eager to learn and grow.</p>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,git,github,sass,ts,&theme=dark" />
+  </a>
+</p>
  <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <a href="https://www.linkedin.com/in/amrabelgawad/" target="blank"><img align="center"
