@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="">, I'm Amr Mohamed</h1>
+<h1 align="center">Hi <img width="35" src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif" alt="">, I'm Amr Mohamed</h1>
 <p align="center">Frontend developer passionate about crafting beautiful, accessible UIs.  Angular | TypeScript | Sass | Accessibility |   MDN enthusiast, always eager to learn and grow.</p>
 
 
@@ -12,7 +12,7 @@
       <a href="https://www.linkedin.com/in/amrabelgawad/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Amr" height="30"/></a>
-      <a href="mailto:amr.abdelgwaed@gmail.com" target="blank"><img align="center"
+      <a href="mailto:amrmohmad.dev@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Amr" height="30"/></a>
     </p>
